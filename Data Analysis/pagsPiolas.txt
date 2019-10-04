@@ -1,8 +1,8 @@
 Paginas piolas
 
-https://github.com/fifabsas/talleresfifabsas/tree/master/python/4_Aplicaciones_avanzadas/big_data
+Data Analysis
 
-https://chrisalbon.com/#leadership
+https://github.com/fifabsas/talleresfifabsas/tree/master/python/4_Aplicaciones_avanzadas/big_data
 
 https://docs.google.com/document/d/14uGyjgq1VNCXkDjSs7Z-URDTJ_o3LB4U8ZwXI-IyOp4/edit
 
@@ -11,10 +11,17 @@ https://docs.sympy.org/latest/modules/core.html
 https://github.com/sympy/sympy/wiki/Tutorial
 
 https://matplotlib.org/users/pyplot_tutorial.html
-
-Asunto: Labo3
  
 http://amperimetro.icu/diferencia-amperimetro-voltimetro/
+
+ML 
+http://archive.ics.uci.edu/ml/index.php
+
+https://machinelearningmastery.com/start-here/#process
+
+https://chrisalbon.com/#leadership
+
+https://scikit-learn.org/stable/
 
 
 Circuit Simulator
