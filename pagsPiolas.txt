@@ -25,6 +25,14 @@ https://chrisalbon.com/#leadership
 https://scikit-learn.org/stable/
 
 
+ARDUINO
+
+https://create.arduino.cc/projecthub/Vilaksh/sigfy-sigfox-farm-yield-with-crop-and-health-monitoring-3d8116?ref=platform&ref_id=424_trending___&offset=4
+
+https://create.arduino.cc/projecthub/schouten_tjeerd/arduino-chilled-mirror-hygrometer-81fef3?ref=platform&ref_id=424_trending___&offset=1
+
+https://create.arduino.cc/projecthub/little_lookout/person-detection-with-tensorflow-and-arduino-47ae01?ref=platform&ref_id=424_trending___&offset=12
+
 Circuit Simulator
 
 https://pypi.org/project/PySpice/0.3.0/
