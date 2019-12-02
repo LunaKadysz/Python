@@ -1,6 +1,10 @@
 Paginas piolas
 Medical Science Liaison
 
+Lista de Notebooks piolas
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+
+
 Data Analysis
 
 https://github.com/fifabsas/talleresfifabsas/tree/master/python/4_Aplicaciones_avanzadas/big_data
@@ -16,6 +20,9 @@ https://matplotlib.org/users/pyplot_tutorial.html
 http://amperimetro.icu/diferencia-amperimetro-voltimetro/
 
 ML 
+
+https://datatofish.com/statsmodels-linear-regression/
+
 http://archive.ics.uci.edu/ml/index.php
 
 https://machinelearningmastery.com/start-here/#process
