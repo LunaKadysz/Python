@@ -1,0 +1,57 @@
+
+<body>
+
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<div class="jumbotron jumbotron-fluid">
+<table class="table">
+  <thead class="thead-dark">
+    <tr style="text-align: right;">
+      <th>FECHA DE CARGO</th>
+      <th>N° DÍAS</th>
+      <th>Factor Int  Día</th>
+      <th>Factor Int Dia Acu</th>
+      <th>Factor Act-Aux</th>
+      <th>Factor Act</th>
+      <th>Factor Cuota</th>
+      <th>Saldo Capital</th>
+      <th>Cuota Interés</th>
+      <th>Cuota Capital</th>
+      <th>Total Cuota</th>
+      <th>Seguro Deuda PGD</th>
+      <th>Año Bisiesto</th>
+      <th>Fecha Cuota Antrior</th>
+      <th>Fecha Fin de Año</th>
+      <th>Fecha Cuota</th>
+      <th>Factor Int  Día 1</th>
+      <th>Factor Int  Día 2</th>
+      <th>INT 1</th>
+      <th>INT 2</th>
+    </tr>
+  </thead>
+  <tbody>
+   <% for i in rango do %><tr>
+      <td><%= array_num_cuota[i] %></td>
+      <td><%= array_fecha_de_cargo[i] %></td>
+      <td><%= array_dif_dias[i] %></td>
+      <td><%= array_factor_int_dia[i] %></td>
+      <td><%= array_factor_int_dia_acu[i] %></td>
+      <td><%= array_factor_act_aux[i] %></td>
+      <td><%= array_factor_act[i] %></td>
+      <td><%= array_factor_cuota[i] %></td>
+      <td><%= array_saldo_capital[i] %></td>
+      <td><%= array_cuota_interes[i] %></td>
+      <td><%= array_cuota_capital[i] %></td>
+      <td><%= array_total_cuota[i] %></td>
+      <td><%= array_anio_bis[i] %></td>
+      <td><%= array_fecha_cuota_anterior[i] %></td>
+      <td><%= array_fecha_fin_anio[i] %></td>
+      <td><%= array_fecha_cuota[i] %></td>
+      <td><%= array_factor_int_1[i] %></td>
+      <td><%= array_factor_int_2[i] %></td>
+      <td><%= array_int_1[i] %></td>
+      <td><%= array_int_2[i] %></td>
+</tr> <% end %>&lt;
+  </tbody>
+</table>
