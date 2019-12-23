@@ -15,7 +15,7 @@ space_step = 1/N
 n = 500     # discretización del tiempo
 T_max = 2#np.sqrt(2) - 4/n
 time_step = T_max/n 
-c = 1       # velocidad de propagación
+c = 1/4       # velocidad de propagación
 
 X = np.linspace(0,1,N)
 Y = np.linspace(0,1,N)
@@ -54,7 +54,7 @@ ax3.set_zlim3d(-0.8, 0.8)
 for t in range(n):
     ax3.set_zlim3d(-10.0, 10.0)
     ax3.plot_surface(xx, yy, U[:,:,t], cmap = 'jet')
-    plt.savefig('D:\\martin\\Documents\\Python Scripts\\Animation\\frames\\frame_{:03d}.png'.format(t))
+  #  plt.savefig('D:\\martin\\Documents\\Python Scripts\\Animation\\frames\\frame_{:03d}.png'.format(t))
     #plt.pause(0.0001)
     ax3.clear()
 plt.close(fig)
